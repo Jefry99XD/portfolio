@@ -33,6 +33,10 @@ export default function AboutMe() {
           <span className="font-semibold"> Networking</span>, and exploring <span className="font-semibold">AI topics</span>.
         </p>
 
+        <p className="text-gray-600 leading-relaxed mt-4">
+        Contact me on jefryccuendiz99@gmail.com
+        </p>
+
         {/* Links Section */}
         <div className="mt-6 flex space-x-4">
           <a
