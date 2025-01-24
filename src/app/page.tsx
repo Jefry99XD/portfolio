@@ -10,11 +10,11 @@ export default function Home() {
   return (
     <div>
       <Head>
-      <meta property="og:title" content="PortFolio" />
-        <meta property="og:description" content="Aquí puedes conocer más sobre mis proyectos, experiencias y habilidades." />
-        <meta property="og:image" content="/fotos/image.png" /> {/* Ruta correcta a la imagen en la carpeta public */}
-        <meta property="og:url" content="https://jefry-portfolio.netlify.app/" />
-        <meta property="og:type" content="website" />
+
+      <meta prefix="og: http://ogp.me/ns#" property="og:type" content="website" />
+      <meta prefix="og: http://ogp.me/ns#" property="og:title" content="Portfolio" />
+      <meta prefix="og: http://ogp.me/ns#" property="og:image" content="/fotos/image.png"/>
+      <meta prefix="og: http://ogp.me/ns#" property="og:url" content="https://jefry-portfolio.netlify.app/"/>
         
       </Head>
 
