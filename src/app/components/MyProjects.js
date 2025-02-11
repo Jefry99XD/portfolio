@@ -62,7 +62,7 @@ export default function MyProjects() {
           <p className="text-sm text-gray-600 mt-2">
             A system to view available hotels and plan reservations with
             check-in and check-out dates. Made in NodeJS together with HTML,
-            CSS, and JavaScript, using MySQL. Developed by a team of 14, divided
+            CSS, and JavaScript, using PostgreSQL with Sequelize. Developed by a team of 14, divided
             into Backend, Frontend, and Documenter/Architects.
           </p>
         </div>

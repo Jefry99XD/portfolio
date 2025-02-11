@@ -67,6 +67,8 @@ export default function MyTechnologies() {
             <li>Azure</li>
             <li>AWS</li>
             <li>Postman</li>
+            <li>Selenium</li>
+            <li>Sequelize & Mongoose</li>
             <li>Jira, Trello</li>
           </ul>
         </div>
