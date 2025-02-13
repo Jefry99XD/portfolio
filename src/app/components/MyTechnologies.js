@@ -60,6 +60,7 @@ export default function MyTechnologies() {
           <h3 className="text-xl font-semibold text-gray-700 mb-2">Tools</h3>
           <ul className="space-y-2 text-gray-600">
             <li>Git & Github</li>
+            <li>Cypress.io</li>
             <li>Cisco IOS</li>
             <li>Github Actions</li>
             <li>Jenkins</li>

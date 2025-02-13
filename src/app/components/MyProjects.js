@@ -44,6 +44,7 @@ export default function MyProjects() {
             forms for each event and stage. Developed with Mongo, Express,
             Angular, and NodeJS, using Oracle Cloud for deployment and CI/CD
             with GitHub Actions.
+            Tested with Cypress.io
           </p>
         </div>
 
@@ -144,7 +145,7 @@ export default function MyProjects() {
           <p className="text-sm text-gray-600 mt-2">
             Developed using MEAN Stack. A web system for diecast car collectors
             to track collections across scales, connect with friends, view their
-            collections, and chat with them.
+            collections, and chat with them. Tested with Cypress IO and Selenium
           </p>
         </div>
 
