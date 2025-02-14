@@ -44,7 +44,7 @@ export default function MyProjects() {
             forms for each event and stage. Developed with Mongo, Express,
             Angular, and NodeJS, using Oracle Cloud for deployment and CI/CD
             with GitHub Actions.
-            Tested with Cypress.io
+            Tested with Selenium
           </p>
         </div>
 
