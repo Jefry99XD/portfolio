@@ -12,27 +12,26 @@ export default function MyExperiences() {
               KuarcTech Solutions
             </h3>
             <p className="text-sm text-gray-500 mb-3">
-              <strong>Role:</strong> Fullstack Developer | <strong>Dates:</strong> July - December, 2024
+              <strong>Role:</strong> Software Engineer Intern | <strong>Dates:</strong> July - December, 2024
             </p>
             <p className="text-gray-600">
               Development of the Kuarc Project Manager module to:
             </p>
             <ul className="list-disc list-inside text-gray-600 mt-2">
-              <li>Manage projects, view tasks, assign resources, and team members.</li>
-              <li>Assign stakeholders and view project progress.</li>
+              <li>Enhance project management, task tracking, and resource allocation.</li>
             </ul>
             <p className="text-gray-600 mt-2">
               Developed using:
             </p>
             <ul className="list-disc list-inside text-gray-600 mt-1">
-              <li>.NET, Angular, PostgreSQL, Neo4j</li>
+              <li>.NET, Angular, PostgreSQL, Neo4j, AWS</li>
               <li>WebSockets and Bitbucket</li>
             </ul>
             <p className="text-gray-600 mt-2">
               Additional Responsibilities:
             </p>
             <ul className="list-disc list-inside text-gray-600 mt-1">
-              <li>Peer user story reviews and test cases for software quality assurance.</li>
+              <li>Participated in peer reviews of user stories and software quality assurance under SCRUM methodology.</li>
             </ul>
           </li>
           {/* Experience 2 */}

@@ -15,6 +15,10 @@ export default function Knowledge() {
           </li>
           <li className="flex items-start">
             <span className="text-green-500 mr-2">✔</span>
+            <span>QA Automaton Tools, Manual QA Test cases</span>
+          </li>
+          <li className="flex items-start">
+            <span className="text-green-500 mr-2">✔</span>
             <span>DevOps</span>
           </li>
           <li className="flex items-start">
